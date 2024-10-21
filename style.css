@@ -5,8 +5,21 @@ body{
     background-color: darkgrey;
 }
 h1{
-    background-color: black;
+    background-color: rgb(24, 45,88);
+    font-weight: bolder;
 }
 footer{
-    color: brown;
+    color:#00ff00
+}
+#box{
+    background-color: blue;
+}
+.heading{
+    color: red;
+    text-decoration:underline; 
+    text-align: center;
+    line-height: normal;
+a{
+    text-decoration: none;
+    font-weight: 600;
 }
