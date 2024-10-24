@@ -55,3 +55,18 @@ button{
 a{
     margin-right: 150px;
 }
+.cbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+}
+#content{
+    height: 550px;
+}
+footer{
+    background-color: #252222;
+    text-align: center;
+    color: white;
+}
